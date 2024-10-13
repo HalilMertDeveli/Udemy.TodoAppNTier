@@ -1,0 +1,11 @@
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\bin\Debug\net8.0\Udemy.TodoAppNTier.Dtos.deps.json
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\bin\Debug\net8.0\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\bin\Debug\net8.0\Udemy.TodoAppNTier.Dtos.pdb
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\Udemy.TodoAppNTier.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\Udemy.TodoAppNTier.Dtos.AssemblyInfoInputs.cache
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\Udemy.TodoAppNTier.Dtos.AssemblyInfo.cs
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\Udemy.TodoAppNTier.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\refint\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\Udemy.TodoAppNTier.Dtos.pdb
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net8.0\ref\Udemy.TodoAppNTier.Dtos.dll

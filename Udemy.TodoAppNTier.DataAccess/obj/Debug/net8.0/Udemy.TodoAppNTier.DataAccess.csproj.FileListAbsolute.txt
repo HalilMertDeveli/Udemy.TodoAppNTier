@@ -1,0 +1,17 @@
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\bin\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.deps.json
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\bin\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.runtimeconfig.json
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\bin\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\bin\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.pdb
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\bin\Debug\net8.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\bin\Debug\net8.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.AssemblyInfoInputs.cache
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.AssemblyInfo.cs
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.To.26430F6E.Up2Date
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\refint\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.pdb
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\Udemy.TodoAppNTier.DataAccess.genruntimeconfig.cache
+C:\Users\halil\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net8.0\ref\Udemy.TodoAppNTier.DataAccess.dll
