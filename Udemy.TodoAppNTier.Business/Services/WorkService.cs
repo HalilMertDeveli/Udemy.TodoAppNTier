@@ -10,7 +10,7 @@ using Udemy.TodoAppNTier.Entities.Domains;
 
 namespace Udemy.TodoAppNTier.Business.Services
 {
-    public class WorkService:IWorkService
+    public class WorkService : IWorkService
     {
         private readonly IUow _uow;
         public WorkService(IUow uow)
@@ -19,11 +19,11 @@ namespace Udemy.TodoAppNTier.Business.Services
         }
         public async Task<List<WorkListDto>> GetAll()
         {
-            var list= await _uow.GetRepository<Work>().GetAll();
+            var list = await _uow.GetRepository<Work>().GetAll();
 
             var workList = new List<WorkListDto>();
 
-            if (list!=null && list.Count>0)
+            if (list != null && list.Count > 0)
             {
                 foreach (var work in list)
                 {
@@ -58,6 +58,24 @@ namespace Udemy.TodoAppNTier.Business.Services
                 Id = work.Id,
                 IsCompleted = work.IsCompleted
             };
+        }
+
+        public async Task Remove(object id)
+        {
+            var deletedWork = await _uow.GetRepository<Work>().GetById(id);
+            _uow.GetRepository<Work>().Remove(deletedWork);
+            _uow.SaveChanges();
+        }
+
+        public async  Task Update(WorkUpdateDto dto)
+        {
+            _uow.GetRepository<Work>().Update(new Work()
+            {
+                Defination = dto.Defination,
+                Id = dto.Id,
+                IsCompleted = dto.IsCompleted
+            });
+            await _uow.SaveChanges();
         }
     }
 }
