@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using Udemy.TodoAppNTier.DataAccess.Configurations;
 using Udemy.TodoAppNTier.Entities.Domains;
 
@@ -10,6 +11,8 @@ namespace Udemy.TodoAppNTier.DataAccess.Contexts
         {
 
         }
+
+      
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

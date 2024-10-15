@@ -49,9 +49,9 @@ namespace Udemy.TodoAppNTier.Business.Services
             await _uow.SaveChanges();
         }
 
-        public async Task<WorkListDto> GetById(object id)
+        public async Task<WorkListDto> GetById(int id)
         {
-            var work = await _uow.GetRepository<Work>().GetById(id);
+            var work = await _uow.GetRepository<Work>().GetByFilter(x=>x.Id==id);
             return new WorkListDto()
             {
                 Defination = work.Defination,
