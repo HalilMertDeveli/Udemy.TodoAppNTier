@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Udemy.TodoAppNTier.Business.Interfaces;
 using Udemy.TodoAppNTier.Business.Mappings.AutoMapper;
 using Udemy.TodoAppNTier.Business.Services;
+using Udemy.TodoAppNTier.Business.ValidationRules;
 using Udemy.TodoAppNTier.DataAccess.Contexts;
 using Udemy.TodoAppNTier.DataAccess.UnitOfWork;
+using Udemy.TodoAppNTier.Dtos.WorkDtos;
 
 namespace Udemy.TodoAppNTier.Business.DependencyResolvers.Microsoft
 {
@@ -37,6 +40,10 @@ namespace Udemy.TodoAppNTier.Business.DependencyResolvers.Microsoft
             var mapper = configuration.CreateMapper();
 
             services.AddSingleton(mapper);
+
+
+            services.AddTransient<IValidator<WorkCreateDto>, WorkCreateDtoValidator>();
+            services.AddTransient<IValidator<WorkUpdateDto>, WorkUpdateDtoValidator>();
         }
     }
 }

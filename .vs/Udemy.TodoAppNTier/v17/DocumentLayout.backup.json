@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE9BF728-5C5D-4E6B-A0DF-2345F4977706}|Udemy.TodoAppNTier\\Udemy.TodoAppNTier.UI.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9BF728-5C5D-4E6B-A0DF-2345F4977706}|Udemy.TodoAppNTier\\Udemy.TodoAppNTier.UI.csproj|solutionrelative:udemy.todoappntier\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.business\\services\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|solutionrelative:udemy.todoappntier.business\\services\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.business\\interfaces\\iworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|solutionrelative:udemy.todoappntier.business\\interfaces\\iworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.business\\dependencyresolvers\\microsoft\\dependencyextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|solutionrelative:udemy.todoappntier.business\\dependencyresolvers\\microsoft\\dependencyextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\workcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\workdtos\\workcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.business\\validationrules\\workupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|solutionrelative:udemy.todoappntier.business\\validationrules\\workupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\workupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\workdtos\\workupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\worklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\workdtos\\worklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.dtos\\interfaces\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}|Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\interfaces\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|c:\\users\\halil\\source\\repos\\udemy.todoappntier\\udemy.todoappntier.business\\validationrules\\workcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21466024-2CA0-4308-95DA-D1B68D0B238A}|Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj|solutionrelative:udemy.todoappntier.business\\validationrules\\workcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Udemy.TodoAppNTier\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Udemy.TodoAppNTier\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyExtension.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\DependencyResolvers\\Microsoft\\DependencyExtension.cs",
+              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Business\\DependencyResolvers\\Microsoft\\DependencyExtension.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\DependencyResolvers\\Microsoft\\DependencyExtension.cs",
+              "RelativeToolTip": "Udemy.TodoAppNTier.Business\\DependencyResolvers\\Microsoft\\DependencyExtension.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:57:36.015Z",
+              "WhenOpened": "2024-10-16T16:49:28.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WorkService.cs",
               "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Services\\WorkService.cs",
               "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Business\\Services\\WorkService.cs",
-              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Services\\WorkService.cs",
-              "RelativeToolTip": "Udemy.TodoAppNTier.Business\\Services\\WorkService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Services\\WorkService.cs*",
+              "RelativeToolTip": "Udemy.TodoAppNTier.Business\\Services\\WorkService.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwD8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:55:56.367Z",
+              "WhenOpened": "2024-10-16T16:45:33.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WorkCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
-              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
-              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
-              "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:54:57.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "WorkUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
               "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
               "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
               "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:54:51.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WorkListDto.cs",
-              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkListDto.cs",
-              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkListDto.cs",
-              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkListDto.cs",
-              "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkListDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:54:41.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDto.cs",
-              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\Interfaces\\IDto.cs",
-              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Dtos\\Interfaces\\IDto.cs",
-              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\Interfaces\\IDto.cs",
-              "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\Interfaces\\IDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:54:23.53Z",
+              "WhenOpened": "2024-10-16T16:42:25.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IWorkService.cs",
-              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Interfaces\\IWorkService.cs",
-              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Business\\Interfaces\\IWorkService.cs",
-              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Interfaces\\IWorkService.cs",
-              "RelativeToolTip": "Udemy.TodoAppNTier.Business\\Interfaces\\IWorkService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Title": "WorkUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\ValidationRules\\WorkUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Business\\ValidationRules\\WorkUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\ValidationRules\\WorkUpdateDtoValidator.cs",
+              "RelativeToolTip": "Udemy.TodoAppNTier.Business\\ValidationRules\\WorkUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:53:12.489Z",
+              "WhenOpened": "2024-10-16T16:41:52.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\ValidationRules\\WorkCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Business\\ValidationRules\\WorkCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\ValidationRules\\WorkCreateDtoValidator.cs",
+              "RelativeToolTip": "Udemy.TodoAppNTier.Business\\ValidationRules\\WorkCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:41:18.968Z",
               "EditorCaption": ""
             }
           ]
