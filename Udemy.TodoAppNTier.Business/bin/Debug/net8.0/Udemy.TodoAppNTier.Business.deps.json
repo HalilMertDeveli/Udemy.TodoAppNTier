@@ -11,6 +11,7 @@
           "AutoMapper": "13.0.1",
           "FluentValidation": "11.10.0",
           "FluentValidation.DependencyInjectionExtensions": "11.10.0",
+          "Udemy.ToDoNTier.Common": "1.0.0",
           "Udemy.TodoAppNTier.DataAccess": "1.0.0",
           "Udemy.TodoAppNTier.Dtos": "1.0.0"
         },
@@ -622,6 +623,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Udemy.ToDoNTier.Common/1.0.0": {
+        "runtime": {
+          "Udemy.ToDoNTier.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1048,6 +1057,11 @@
       "sha512": ""
     },
     "Udemy.TodoAppNTier.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Udemy.ToDoNTier.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

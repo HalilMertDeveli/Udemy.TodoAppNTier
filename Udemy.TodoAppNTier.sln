@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TodoAppNTier.UI", "Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI.csproj", "{DE9BF728-5C5D-4E6B-A0DF-2345F4977706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.TodoAppNTier.UI", "Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI.csproj", "{DE9BF728-5C5D-4E6B-A0DF-2345F4977706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TodoAppNTier.DataAccess", "Udemy.TodoAppNTier.DataAccess\Udemy.TodoAppNTier.DataAccess.csproj", "{38EB691F-4B59-4D33-9DA8-03ED3AAF9FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.TodoAppNTier.DataAccess", "Udemy.TodoAppNTier.DataAccess\Udemy.TodoAppNTier.DataAccess.csproj", "{38EB691F-4B59-4D33-9DA8-03ED3AAF9FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TodoAppNTier.Business", "Udemy.TodoAppNTier.Business\Udemy.TodoAppNTier.Business.csproj", "{21466024-2CA0-4308-95DA-D1B68D0B238A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.TodoAppNTier.Business", "Udemy.TodoAppNTier.Business\Udemy.TodoAppNTier.Business.csproj", "{21466024-2CA0-4308-95DA-D1B68D0B238A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TodoAppNTier.Entities", "Udemy.TodoAppNTier.Entities\Udemy.TodoAppNTier.Entities.csproj", "{82D3C056-5549-449B-8688-8167C2A9066D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.TodoAppNTier.Entities", "Udemy.TodoAppNTier.Entities\Udemy.TodoAppNTier.Entities.csproj", "{82D3C056-5549-449B-8688-8167C2A9066D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TodoAppNTier.Dtos", "Udemy.TodoAppNTier.Dtos\Udemy.TodoAppNTier.Dtos.csproj", "{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.TodoAppNTier.Dtos", "Udemy.TodoAppNTier.Dtos\Udemy.TodoAppNTier.Dtos.csproj", "{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.ToDoNTier.Common", "Udemy.ToDoNTier.Common\Udemy.ToDoNTier.Common.csproj", "{1BE7EFA2-C4A3-4D40-8043-AC81C20D54C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9587F5D-CC41-413D-8F9A-9D1BC64D3DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE7EFA2-C4A3-4D40-8043-AC81C20D54C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE7EFA2-C4A3-4D40-8043-AC81C20D54C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE7EFA2-C4A3-4D40-8043-AC81C20D54C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE7EFA2-C4A3-4D40-8043-AC81C20D54C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

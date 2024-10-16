@@ -1067,6 +1067,16 @@
         "runtime": {
           "bin/placeholder/Udemy.TodoAppNTier.Entities.dll": {}
         }
+      },
+      "Udemy.ToDoNTier.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Udemy.ToDoNTier.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Udemy.ToDoNTier.Common.dll": {}
+        }
       }
     }
   },
@@ -2893,6 +2903,11 @@
       "type": "project",
       "path": "../Udemy.TodoAppNTier.Entities/Udemy.TodoAppNTier.Entities.csproj",
       "msbuildProject": "../Udemy.TodoAppNTier.Entities/Udemy.TodoAppNTier.Entities.csproj"
+    },
+    "Udemy.ToDoNTier.Common/1.0.0": {
+      "type": "project",
+      "path": "../Udemy.ToDoNTier.Common/Udemy.ToDoNTier.Common.csproj",
+      "msbuildProject": "../Udemy.ToDoNTier.Common/Udemy.ToDoNTier.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2900,6 +2915,7 @@
       "AutoMapper >= 13.0.1",
       "FluentValidation >= 11.10.0",
       "FluentValidation.DependencyInjectionExtensions >= 11.10.0",
+      "Udemy.ToDoNTier.Common >= 1.0.0",
       "Udemy.TodoAppNTier.DataAccess >= 1.0.0",
       "Udemy.TodoAppNTier.Dtos >= 1.0.0"
     ]
@@ -2942,6 +2958,9 @@
             },
             "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj": {
               "projectPath": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj"
+            },
+            "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.ToDoNTier.Common\\Udemy.ToDoNTier.Common.csproj": {
+              "projectPath": "C:\\Users\\halil\\source\\repos\\Udemy.TodoAppNTier\\Udemy.ToDoNTier.Common\\Udemy.ToDoNTier.Common.csproj"
             }
           }
         }
